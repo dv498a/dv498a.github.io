@@ -7,8 +7,7 @@ layout: Ruby
 tags: 
  
 permalink: introduction
-featured: /images/ttak-48
-png
+featured: /images/ttak-48.png
 ---
 
 ## அறிமுகம்

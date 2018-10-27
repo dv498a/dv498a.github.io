@@ -8,23 +8,13 @@ url: 'https://dv498a.github.io'
 author: Pitchaimuthu
 logo: '/images/ttak.png'
 links:
-- வாடிவாசல், /
-- தரவிறக்கம், release_notes
-- பதிவுகள், blog
-- ஞாலக் களஞ்சியம், ttak_tamil_ngaalakalanjiyam
-- 498a, 498a/DV | Indian Men socienty facing cruelity from Indian women and law
+- முகப்பு, /
+- DV498a, 498a/DV | Indian Men socienty facing cruelity from Indian women and law
 - எம்மைப்பற்றி, about
 get_started_links:
-- வழிகாட்டி, ttak_2018_windows
-- Android , android
-- Windows, ttak-web
-- Firefox, https://addons.mozilla.org/en-US/firefox/addon/thanithamizhakarathikalanjiyam/
-- சொல் உருவாக்கி , firefox_ttak/
-- கிரந்த நீக்கி , firefox_ttak/
-- நாட்காட்டி, ttak_date_time
-- பண்பலை, isaiyinifm/
-- தனிதமிழ் சிறுபொழுது, ttak_tamil_time_promo
-- நன்றிகள், https://www.tamilinternetconference.org/selected-papers/
+
+
+
 lang: ta_in
 paginate: 10
 

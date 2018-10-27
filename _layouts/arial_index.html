@@ -6,13 +6,12 @@
 -->
 <html>
 	<head>
-		<title>{{site.title}}</title>
+		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
+		{% seo %}
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/aerial/assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/aerial/assets/css/noscript.css" /></noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
-		{% seo %}
+		<noscript><link rel="stylesheet" href="assets/aerial/assets/css/noscript.css" /></noscript>		
 	</head>
 	<body class="is-preload">
 		<div id="wrapper">
